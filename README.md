@@ -6,7 +6,7 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/#5C2D91" style="margin-right: 50px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" style="margin-right: 50px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" style="margin-right: 50px;" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/angular/#0F0F11" style="margin-right: 50px;" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/angular/#DD0031" style="margin-right: 50px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" style="margin-right: 50px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/#7952B3" style="margin-right: 50px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927" />
