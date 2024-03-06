@@ -10,5 +10,6 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" style="margin-right: 50px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" style="margin-right: 50px;" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/#7952B3" style="margin-right: 50px;" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927" style="margin-right: 50px;" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032" />
 </div>
