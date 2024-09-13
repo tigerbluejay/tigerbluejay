@@ -1,4 +1,4 @@
-#### Hi, I'm Jose 👋
+### Hi, I'm Jose 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
