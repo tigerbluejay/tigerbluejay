@@ -1,5 +1,5 @@
 #### Hi, I'm Jose 👋
 
 <div style="display: flex, align-items: left;">
-<!--     <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/#512bd4" style="margin-right: 50px;" />
-</div> -->
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,bash,cs,css,devto,dotnet,git,html,mysql,sqlite,ts,visualstudio,vscode&theme=light)](https://skillicons.dev)
+</div>
