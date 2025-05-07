@@ -5,3 +5,9 @@
     <img src="https://skillicons.dev/icons?i=angular,aws,bash,cs,css,devto,dotnet,git,html,mysql,sqlite,ts,visualstudio,vscode" />
   </a>
 </p>
+
+👋 Welcome
+
+This GitHub showcases my work as a senior .NET developer, with a focus on real-world full-stack projects, backend development, and algorithmic problem solving. You'll find C#/.NET Core APIs, Angular frontends, and SQL-based solutions that reflect both production-grade patterns and personal experimentation.
+
+Many of the repositories here serve as technical deep-dives, hands-on learning exercises, or interview preparation. I also share smaller utilities, patterns, and solutions that I've found useful in day-to-day development. Whether you're here to explore my code or get a sense of how I think through problems, thanks for stopping by!
