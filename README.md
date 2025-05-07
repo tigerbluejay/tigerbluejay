@@ -6,7 +6,7 @@
   </a>
 </p>
 
-##👋 Welcome
+## Welcome 👋 
 
 <p align="left">
 This GitHub showcases my work as a senior .NET developer, with a focus on real-world full-stack projects, backend development, and algorithmic problem solving. You'll find C#/.NET Core APIs, Angular frontends, and SQL-based solutions that reflect both production-grade patterns and personal experimentation.
