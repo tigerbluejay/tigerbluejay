@@ -16,4 +16,4 @@ This repositories hub showcases my work as a .NET software developer, with a foc
 Many of the repositories here serve as technical deep-dives, hands-on learning exercises, or interview preparation. I also share smaller utilities, patterns, and solutions that I've found useful in day-to-day development. Whether you're here to explore my code or get a sense of how I think through problems, thanks for stopping by!
 </p>
 
-[Download my CV (PDF)](https://tigerbluejay.github.io/cv/IRIARTE-CV-05-2025.pdf)
+[Download my CV (PDF)](https://tigerbluejay.github.io/cv/IRIARTE-CV-07-2025.pdf)
