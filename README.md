@@ -30,6 +30,8 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 - [MVC-App-Consuming-BARE-API](https://github.com/tigerbluejay/MVC-App-Consuming-BARE-API) — ASP.NET 7 MVC app consuming the BARE API.
 - [Sigma-MVC-EFCore-Course-Marketplace](https://github.com/tigerbluejay/Sigma-MVC-EFCore-Course-Marketplace) — ASP.NET Core MVC 6 course marketplace app with Razor Pages and layered design.
 - [GOF-Design-Patterns-Generic-Real-World-Examples-by-AI](https://github.com/tigerbluejay/GOF-Design-Patterns-Generic-Real-World-Examples-by-AI) — 65 projects demonstrating GoF patterns with generic and .NET-specific examples.
+- [FullLINQ101Implementations](https://github.com/tigerbluejay/FullLINQ101Implementations) — .NET 6 complete implementations of Microsoft’s 101 LINQ examples with enhancements.
+- [MVC-EF-Movie-Ranker-App](http://github.com/tigerbluejay/MVC-EF-Movie-Ranker-App) — .NET 6 MVC app for ranking movies (Code-First EF Core).
 - [UrbetrackDotNetCodingChallenge](https://github.com/tigerbluejay/UrbetrackDotNetCodingChallenge) — Complete coding challenge solution (C#, .NET Standard 2.0).
 
 ---
@@ -63,15 +65,19 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 - [MagicVilla-API-Expose-and-Consume](https://github.com/tigerbluejay/MagicVilla-API-Expose-and-Consume) — Full stack app: ASP.NET Core 6 API + MVC client, JWT auth, repository pattern.
 - [Sparky-and-Bongo-Unit-Testing](https://github.com/tigerbluejay/Sparky-and-Bongo-Unit-Testing) — Hands-on unit testing with xUnit and MVC app examples.
 - [EF-Core-Complete-Demonstration-Project](https://github.com/tigerbluejay/EF-Core-Complete-Demonstration-Project) — MVC app showcasing EF Core migrations, Fluent API, and relationships.
+- [CPlusPlusDeveloperEssentialPackage](https://github.com/tigerbluejay/CPlusPlusDeveloperEssentialPackage) — C++ CS fundamentals, data types to OOP architecture (Georgetown CS course).
 
 ---
 
 ### 🎓 Small Projects That Are Part of My Education
 
 - [MvcMovie](https://github.com/tigerbluejay/MvcMovie) — Classic ASP.NET Core MVC CRUD sample.
+- [BankAccount](https://github.com/tigerbluejay/BankAccount) — A simple C# console app demonstrating OOP with a basic bank account model.
+- [BankAccountTests](https://github.com/tigerbluejay/BankAccountTests) —  Extension of the BankAccount project with basic xUnit tests.
 - [BreakfastAsync](https://github.com/tigerbluejay/BreakfastAsync) — Educational .NET 6 async/await demo.
 - [ConstructorDependencyInjection](https://github.com/tigerbluejay/ConstructorDependencyInjection) — Demo of DI principles and service lifetimes.
 - [.NETProjects](https://github.com/tigerbluejay/.NETProjects) — Collection of beginner .NET 6 projects.
+- [ContosoUniversity](https://github.com/tigerbluejay/ContosoUniversity) — Educational ASP.NET MVC app simulating a university system (.NET Framework 4.5, EF6).
 - [ContosoPizzaEFDemo](https://github.com/tigerbluejay/ContosoPizzaEFDemo) — Simple EF Core code-first CRUD app for pizza orders.
 - [ContosoPizzaEFDemoDBFirst](https://github.com/tigerbluejay/ContosoPizzaEFDemoDBFirst) — DB-first EF Core API example.
 
@@ -86,6 +92,7 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 - [Angular-Core-Deep-Dive-Directives](https://github.com/tigerbluejay/Angular-Core-Deep-Dive-Directives) — Angular University part II on custom directives.
 - [Angular-Core-Deep-Dive-Services](https://github.com/tigerbluejay/Angular-Core-Deep-Dive-Services) — Angular University part III on services and advanced concepts.
 - [Angular-Core-Deep-Dive-Signals](https://github.com/tigerbluejay/Angular-Core-Deep-Dive-Signals) — Angular University part IV on Angular Signals.
+- [Node-Rest-API](https://github.com/tigerbluejay/Node-Rest-API) — TypeScript Node.js API
 - [Secure-Node-REST-API-with-Identity](https://github.com/tigerbluejay/Secure-Node-REST-API-with-Identity) — Node API with TypeORM and Identity auth.
 - [RxJs-In-Practise-Store](https://github.com/tigerbluejay/RxJs-In-Practise-Store) — Advanced RxJS with Angular, state management, and caching.
 - [RxJs-In-Practise-Components](https://github.com/tigerbluejay/RxJs-In-Practise-Components) — Deep dive into RxJS observables, operators, and custom operators.
