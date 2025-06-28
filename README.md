@@ -32,7 +32,6 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 - [GOF-Design-Patterns-Generic-Real-World-Examples-by-AI](https://github.com/tigerbluejay/GOF-Design-Patterns-Generic-Real-World-Examples-by-AI) — 65 projects demonstrating GoF patterns with generic and .NET-specific examples.
 - [FullLINQ101Implementations](https://github.com/tigerbluejay/FullLINQ101Implementations) — .NET 6 complete implementations of Microsoft’s 101 LINQ examples with enhancements.
 - [MVC-EF-Movie-Ranker-App](http://github.com/tigerbluejay/MVC-EF-Movie-Ranker-App) — .NET 6 MVC app for ranking movies (Code-First EF Core).
-- [UrbetrackDotNetCodingChallenge](https://github.com/tigerbluejay/UrbetrackDotNetCodingChallenge) — Complete coding challenge solution (C#, .NET Standard 2.0).
 
 ---
 
@@ -54,9 +53,9 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 - [CSSHTMLWebsite](https://github.com/tigerbluejay/CSSHTMLWebsite) — Early HTML/CSS/PHP multi-page site.
 - [CSSHTMLClone](https://github.com/tigerbluejay/CSSHTMLClone) — Simple static page clone in HTML/CSS.
 - [Reference-Guide-Repository](https://github.com/tigerbluejay/Reference-Guide-Repository) — Cheat sheets and guides for .NET, SQL, JS, and more.
+- [UrbetrackDotNetCodingChallenge](https://github.com/tigerbluejay/UrbetrackDotNetCodingChallenge) — Complete coding challenge solution (C#, .NET Standard 2.0).
 
 ---
-
 
 ### 🎓 Large Projects That Are Part of My Education
 
