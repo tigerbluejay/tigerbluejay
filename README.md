@@ -24,7 +24,7 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 
 ---
 
-### 🧠 Projects Developed Fully by Me from Scratch
+### 🧠 Full Projects I Own
 
 - [Buenos-Aires-Real-Estate-API](https://github.com/tigerbluejay/Buenos-Aires-Real-Estate-API) — .NET 7 REST API with EF Core, Swagger, AutoMapper, and clean architecture.
 - [MVC-App-Consuming-BARE-API](https://github.com/tigerbluejay/MVC-App-Consuming-BARE-API) — ASP.NET 7 MVC app consuming the BARE API.
