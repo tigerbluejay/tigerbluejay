@@ -59,7 +59,7 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 
 ### 🎓 Large Projects That Are Part of My Education
 
-- [Angular-.Net-Integration-Dating-App](https://github.com/tigerbluejay/Angular-.Net-Integration-Dating-App) — Angular 17 client + .NET 8 API backend dating app.
+- [Angular-.Net-Integration-Dating-App](https://github.com/tigerbluejay/Angular-.Net-Integration-Dating-App) — Angular 18 client + .NET 8 API backend dating app.
 - [BulkyBookWeb](https://github.com/tigerbluejay/BulkyBookWeb) — E-commerce MVC app using EF Core.
 - [MagicVilla-API-Expose-and-Consume](https://github.com/tigerbluejay/MagicVilla-API-Expose-and-Consume) — Full stack app: ASP.NET Core 6 API + MVC client, JWT auth, repository pattern.
 - [Sparky-and-Bongo-Unit-Testing](https://github.com/tigerbluejay/Sparky-and-Bongo-Unit-Testing) — Hands-on unit testing with xUnit and MVC app examples.
