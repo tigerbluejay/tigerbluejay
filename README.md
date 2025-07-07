@@ -26,6 +26,7 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 
 ### 🧠 Core Projects
 
+- [Angular-.Net-Integration-Freelancer-Marketplace-App](https://github.com/tigerbluejay/Angular-.Net-Integration-Freelancer-Marketplace-App) — .NET 8 API / Angular 18 Client Integration.
 - [Buenos-Aires-Real-Estate-API](https://github.com/tigerbluejay/Buenos-Aires-Real-Estate-API) — .NET 7 REST API with EF Core, Swagger, AutoMapper, and clean architecture.
 - [MVC-App-Consuming-BARE-API](https://github.com/tigerbluejay/MVC-App-Consuming-BARE-API) — ASP.NET 7 MVC app consuming the BARE API.
 - [Sigma-MVC-EFCore-Course-Marketplace](https://github.com/tigerbluejay/Sigma-MVC-EFCore-Course-Marketplace) — ASP.NET Core MVC 6 course marketplace app with Razor Pages and layered design.
