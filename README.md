@@ -59,7 +59,7 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 
 ### 🎓 Large Projects That Are Part of My Education
 
-- [Microservices-Infrastructre-E-Commerce-Application](https://github.com/tigerbluejay/Mircoservices-Infrastructure-E-commerce-Application.git) - .NET 8 Microservices Infrastructre E-Commerce Solution
+- [Microservices-Infrastructure-E-Commerce-Application](https://github.com/tigerbluejay/Mircoservices-Infrastructure-E-commerce-Application.git) - .NET 8 Microservices Infrastructure E-Commerce Solution
 - [Angular-.Net-Integration-Dating-App](https://github.com/tigerbluejay/Angular-.Net-Integration-Dating-App) — Angular 18 client + .NET 8 API backend dating app.
 - [BulkyBookWeb](https://github.com/tigerbluejay/BulkyBookWeb) — E-commerce MVC app using EF Core.
 - [MagicVilla-API-Expose-and-Consume](https://github.com/tigerbluejay/MagicVilla-API-Expose-and-Consume) — Full stack app: ASP.NET Core 6 API + MVC client, JWT auth, repository pattern.
