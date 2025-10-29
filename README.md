@@ -25,6 +25,7 @@ Welcome to my curated project index — a hyperlinked guide to my repositories g
 
 ### 🧠 Core Projects
 
+- [Microservices-Infrastructure-Personal-Finance-Dashboard](https://github.com/tigerbluejay/Microservices-Infrastructure-Personal-Finance-Dashboard) — .NET 8 Microservices Infrastructure Portfolio Insights Solution
 - [Angular-.Net-Integration-Freelancer-Marketplace-App](https://github.com/tigerbluejay/Angular-.Net-Integration-Freelancer-Marketplace-App) — .NET 8 API / Angular 18 client integration - Marketplace for freelancers.
 - [Buenos-Aires-Real-Estate-API](https://github.com/tigerbluejay/Buenos-Aires-Real-Estate-API) — .NET 7 REST API with EF Core, Swagger, AutoMapper, and clean architecture.
 - [MVC-App-Consuming-BARE-API](https://github.com/tigerbluejay/MVC-App-Consuming-BARE-API) — ASP.NET 7 MVC app consuming the BARE API.
